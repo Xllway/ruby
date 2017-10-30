@@ -1,2 +1,2 @@
-# ruby
+# Ruby
 Ruby on Rails
